@@ -23,3 +23,14 @@ for(
     console.log(i)
 }
 console.log(i)
+
+function logName(){
+ const name = 'Gio'
+ console.log(name)
+}
+
+const name = 'Moraes'
+
+logName()
+
+console.log(name)
